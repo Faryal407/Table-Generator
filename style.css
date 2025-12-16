@@ -50,6 +50,7 @@ input {
 }
 
 #result {
+  color: white;
   margin-top: 30px;
   font-size: 18px;
 }
@@ -59,3 +60,4 @@ td {
   border-bottom: 1px solid #eee;
 
 }
+
